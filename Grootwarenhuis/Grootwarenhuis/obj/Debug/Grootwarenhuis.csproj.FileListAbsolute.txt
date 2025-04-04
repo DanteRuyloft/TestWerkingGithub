@@ -1,0 +1,15 @@
+C:\Users\5BI2425\Desktop\Informatica II\Grootwarenhuis\Grootwarenhuis\bin\Debug\Grootwarenhuis.exe.config
+C:\Users\5BI2425\Desktop\Informatica II\Grootwarenhuis\Grootwarenhuis\bin\Debug\Grootwarenhuis.exe
+C:\Users\5BI2425\Desktop\Informatica II\Grootwarenhuis\Grootwarenhuis\bin\Debug\Grootwarenhuis.pdb
+C:\Users\5BI2425\Desktop\Informatica II\Grootwarenhuis\Grootwarenhuis\obj\Debug\Grootwarenhuis.csproj.AssemblyReference.cache
+C:\Users\5BI2425\Desktop\Informatica II\Grootwarenhuis\Grootwarenhuis\obj\Debug\Grootwarenhuis.Form1.resources
+C:\Users\5BI2425\Desktop\Informatica II\Grootwarenhuis\Grootwarenhuis\obj\Debug\Grootwarenhuis.Form2.resources
+C:\Users\5BI2425\Desktop\Informatica II\Grootwarenhuis\Grootwarenhuis\obj\Debug\Grootwarenhuis.Form3.resources
+C:\Users\5BI2425\Desktop\Informatica II\Grootwarenhuis\Grootwarenhuis\obj\Debug\Grootwarenhuis.Properties.Resources.resources
+C:\Users\5BI2425\Desktop\Informatica II\Grootwarenhuis\Grootwarenhuis\obj\Debug\Grootwarenhuis.csproj.GenerateResource.cache
+C:\Users\5BI2425\Desktop\Informatica II\Grootwarenhuis\Grootwarenhuis\obj\Debug\Grootwarenhuis.csproj.CoreCompileInputs.cache
+C:\Users\5BI2425\Desktop\Informatica II\Grootwarenhuis\Grootwarenhuis\obj\Debug\Grootwarenhuis.exe
+C:\Users\5BI2425\Desktop\Informatica II\Grootwarenhuis\Grootwarenhuis\obj\Debug\Grootwarenhuis.pdb
+C:\Users\5BI2425\Desktop\Informatica II\Grootwarenhuis\Grootwarenhuis\bin\Debug\Catalogus.dll
+C:\Users\5BI2425\Desktop\Informatica II\Grootwarenhuis\Grootwarenhuis\bin\Debug\Catalogus.pdb
+C:\Users\5BI2425\Desktop\Informatica II\Grootwarenhuis\Grootwarenhuis\obj\Debug\Grootwar.83C08B7A.Up2Date
